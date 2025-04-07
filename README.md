@@ -17,7 +17,17 @@ This repository contains the source code and supplementary files for **NutriConv
   - The best-performing model trained with **α = 0.99**.
   - A CSV file with the model’s test set predictions.
 
-> **Note**: The dataset used in this project (derived from EFSA's PANCAKE project) is **not included** in this repository and must be obtained separately.
+## Dataset Availability
+
+**Note**: The dataset used in this project (adapted from EFSA’s PANCAKE project) is **not included** in this repository.  
+It is publicly available on Zenodo and can be accessed at:
+
+**DOI**: [https://doi.org/10.5281/zenodo.15166072](https://doi.org/10.5281/zenodo.15166072)
+
+The dataset is released under the **CC BY-NC-SA 4.0** license (Creative Commons Attribution-NonCommercial-ShareAlike).  
+This means it is free to use **for non-commercial research and educational purposes**, provided that proper credit is given and any derivative work is shared under the same terms.
+
+> Unauthorized commercial use or redistribution without attribution is strictly prohibited.
 
 ---
 
