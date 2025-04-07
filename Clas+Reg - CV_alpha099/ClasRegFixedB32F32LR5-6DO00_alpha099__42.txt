@@ -1,0 +1,6 @@
+Validation Metrics:
+Accuracy: 1.0
+F1 Score: 1.0
+Precision: 1.0
+MAE: 95.36846923828125
+MSE: 722.2730712890625
