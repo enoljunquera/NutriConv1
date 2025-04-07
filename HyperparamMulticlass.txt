@@ -9,7 +9,7 @@ Numero clases;35
 Image folder;./Pancake\images
 Mask folder;./Pancake\masks
 Modo_debug;0
-Model_path_and_name;ModelosFixed\FixedTest_alpha10_nuevaFuncionMAE/ClasRegFixedB32F32LR5-6DO00_alpha10_
+Model_path_and_name;PATH_and_NAME_OF_YOUR_FILE
 Dropout;0.0
 Batch_normalization;1
 Kernel_L2_Regularization;0.0
@@ -17,4 +17,4 @@ Free line
 Free line
 num_filters;32
 test_diferente_carpeta;0
-alpha;1.0
+alpha;0.99
